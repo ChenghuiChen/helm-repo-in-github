@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   aerospike:
   - apiVersion: v3.14.1.2
-    created: 2017-09-29T16:47:22.6123528Z
+    created: "2020-06-12T23:27:26.848482581-04:00"
     description: A Helm chart for Aerospike in Kubernetes
     digest: 4aa501a77dcae10d01f25c370e5c577c8f697cbe9c99fdf0c2efaf480b5276bf
     home: http://aerospike.com
@@ -16,4 +16,15 @@ entries:
     urls:
     - aerospike-0.1.2.tgz
     version: 0.1.2
-generated: 2017-09-29T16:47:22.6044312Z
+  hadoop-cloudnative:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-12T23:27:26.848992084-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c10e6c41aaf3fe9290b44b449968f58c779661e5096dc4e8bf070cc1ac8eeee
+    name: hadoop-cloudnative
+    type: application
+    urls:
+    - hadoop-cloudnative-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-12T23:27:26.847774944-04:00"
